@@ -1,0 +1,12 @@
+{
+  "forms": [
+    {
+      "id": "Customer_Form_v1",
+      "title": "Customer Form v1",
+      "bindings": {
+        "FormLoad": ["090f4f6a-6134-496c-a4b6-12502097c852"],
+        "BeforeSubmit": ["090f4f6a-6134-496c-a4b6-12502097c852"]
+      }
+    }
+  ]
+}
